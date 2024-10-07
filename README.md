@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Sri harima, Aspiring Data Analyst passionate about turning data into actionable insights. Skilled in Python, SQL, machine learning and deep learning, I love crafting data-driven solutions and compelling visualizations. Let's connect and collaborate!</p>
+<p align="left">I'm Sri Harima, an Enthusiast in Data Insights passionate about turning data into actionable insights. Skilled in Python, SQL, machine learning, and deep learning, I love crafting data-driven solutions and compelling visualizations. Let's connect and collaborate!</p>
 
 ###
 
